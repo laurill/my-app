@@ -47,7 +47,7 @@ const App = () => {
         </label>
       </div>
       <div>
-        <label>Number of Beer Bottles:</label>
+        <label>Amount of Beer Bottles:</label>
         <input
           type="number"
           value={beer}
